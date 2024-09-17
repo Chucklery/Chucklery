@@ -55,7 +55,7 @@ Source repository: https://github.com/Chucklery/Chucklery
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html5,css3,js,ts,py,c,cpp,cs,java,matlab,md,sqlite&theme=auto">
-<img width='50' height='50' title='vueMastery' style='margin-left:15px;' src='	https://www.vuemastery.com/_nuxt/image/d26370.svg'></img>
+<img width='50' height='50' title='vueMastery' style='margin-left:15px;' src='https://www.vuemastery.com/_nuxt/image/d26370.svg'></img>
 </p>
 
 <!-- https://github.com/badges/shields -->
