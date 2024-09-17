@@ -58,7 +58,7 @@ Source repository: https://github.com/Chucklery/Chucklery
 </p>
 
 <!-- https://github.com/badges/shields -->
-<p >
+<p text-align="center">
 <a href="https://github.com/Chucklery"><img src="https://img.shields.io/badge/GitHub-Chucklery-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/650810744"><img src="https://img.shields.io/badge/哔哩哔哩-Chucklery-pink?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
