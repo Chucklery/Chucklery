@@ -54,8 +54,8 @@ Source repository: https://github.com/Chucklery/Chucklery
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklery&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html5,css3,js,ts,py,c,cpp,cs,java,matlab,md,sqlite&theme=auto">
-<img width='50' height='50' title='vueMastery' style='margin-left:15px;' src='https://www.vuemastery.com/_nuxt/image/d26370.svg'></img>
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vue,git,pinia,webpack,chromium,ollama,grunt&theme=auto">
+<!-- <img width='50' height='50' title='vueMastery' style='margin-left:15px;' src='https://www.vuemastery.com/_nuxt/image/d26370.svg'></img> -->
 </p>
 
 <!-- https://github.com/badges/shields -->
