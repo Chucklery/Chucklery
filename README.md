@@ -43,6 +43,7 @@ Source repository: https://github.com/Chucklery/Chucklery
 <br/>
 <p align="center">
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chucklery)](https://git.io/streak-stats)
 </p>
 
