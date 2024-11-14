@@ -52,24 +52,34 @@ Source repository: https://github.com/Chucklery/Chucklery
 <br/>
 <p align="center">
 <!-- https://github.com/star-history/star-history -->
+  
 [![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,https:/&type=Timeline)](https://star-history.com/#star-history/star-history&https:/&Timeline)
+
 </p>
 <br/>
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chucklery)](https://github.com/chucklery/github-readme-stats)
+
 </p>
+
 <br/>
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklery&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
+
 <br/>
+
 <p align="center">
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,vue,git,pinia,webpack,chromium,ollama,grunt,gentoo,gnome&theme=auto">
 <!-- <img width='50' height='50' title='vueMastery' style='margin-left:15px;' src='https://www.vuemastery.com/_nuxt/image/d26370.svg'></img> -->
 </p>
+
 </div>
 <!-- https://github.com/badges/shields -->
 <div>
