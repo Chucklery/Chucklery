@@ -53,16 +53,6 @@ Source repository: https://github.com/Chucklery/Chucklery
 
 </p>
 <br/>
-
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chucklery)](https://github.com/chucklery/github-readme-stats)
-
-</p>
-
-<br/>
-
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklery&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
