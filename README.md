@@ -42,8 +42,11 @@ Source repository: https://github.com/Chucklery/Chucklery
 </p>
 <p align="center">
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Chucklery&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chucklery)](https://git.io/streak-stats)
+
 </p>
+
 <br/>
 <p align="center">
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
