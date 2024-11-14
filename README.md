@@ -47,6 +47,7 @@ Source repository: https://github.com/Chucklery/Chucklery
 <br/>
 <!-- https://github.com/star-history/star-history -->
 <!-- <img src="https://api.star-history.com/svg?repos=Chucklery/tkintertools,Chucklery/Intelligent-Magic-Cube,Chucklery/Chess,Chucklery/Chucklery,Chucklery/tkintertools-demos,Chucklery/Fucking-Code&type=Date&theme=dark" /> -->
+  
 [![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,https:/&type=Timeline)](https://star-history.com/#star-history/star-history&https:/&Timeline)
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
