@@ -40,11 +40,10 @@ Source repository: https://github.com/Chucklery/Chucklery
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Chucklery&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 </p>
+<br/>
 <p align="center">
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chucklery)](https://git.io/streak-stats)
-
 </p>
 
 <br/>
