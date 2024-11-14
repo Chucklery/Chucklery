@@ -46,7 +46,8 @@ Source repository: https://github.com/Chucklery/Chucklery
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Chucklery&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=Chucklery/tkintertools,Chucklery/Intelligent-Magic-Cube,Chucklery/Chess,Chucklery/Chucklery,Chucklery/tkintertools-demos,Chucklery/Fucking-Code&type=Date&theme=dark" />
+<!-- <img src="https://api.star-history.com/svg?repos=Chucklery/tkintertools,Chucklery/Intelligent-Magic-Cube,Chucklery/Chess,Chucklery/Chucklery,Chucklery/tkintertools-demos,Chucklery/Fucking-Code&type=Date&theme=dark" /> -->
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0R3OVI0MzJ4S0RGaFNXZG1obm1mbXNCZURHUGd6WTM5WVBORg==#star-history/star-history&Date" frameBorder="0"></iframe>
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chucklery&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
